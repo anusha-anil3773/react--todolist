@@ -1,0 +1,78 @@
+/* /* body{
+    background-image: url(../assets/abstract-colourful-watercolour-background-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+} */
+
+/* body{
+    background-color: rgb(200, 241, 242);
+}
+.container{
+    width: 40%;
+    margin-top: 9em;
+    background-color: rgb(91, 93, 99);
+    border: none;
+    padding: 30px;
+    border-radius: 6px;
+}
+h2{
+    text-align: center;
+    color: rgb(176, 197, 228);
+}
+.form-group{
+    display: flex;
+    flex-direction: row;
+    margin: 10px;
+    width: auto;
+
+}
+button{
+    margin-left: 10px;
+    background-color:rgb(103, 103, 104) ;
+    color: rgb(226, 236, 244);
+    border-radius: 5px;
+    padding: 10px;
+    font-weight: bold;
+    cursor: pointer;
+    border-color: rgb(26, 81, 163);
+}
+.list{
+    margin-top: 30px !important;
+}
+
+li{
+    margin-bottom: 15px ;
+    margin-left: -12px;
+    background-color: rgb(230, 231, 234) !important;
+    color: rgb(0, 0, 0) !important;
+    border: none !important;
+    list-style-type: none;
+    border-radius: 7px;
+    padding: 10px;
+}
+.list-items{
+    display: flex;
+}
+.list-items .list-item-list{
+    flex: 1;
+}
+.list-items .list-item-icons{
+    padding-left: 5px;
+    font-size: 25px;
+    cursor: pointer;
+}
+#complete{
+    color: green;
+}
+#edit{
+    color: blue;
+}
+#delete{
+    color: black;
+   
+}
+#list-item{
+    text-decoration: line-through;
+  
+} */ 
